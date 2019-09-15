@@ -1,0 +1,91 @@
+﻿SportsPlayed,Min_Age,Max_Age,Preference_Rank,Gender,Individual_Sport,Team_Sport,Indoor,Outdoor
+Australian Rules Football,5,8,3,male,0,1,0,1
+Australian Rules Football,9,11,4,male,0,1,0,1
+Basketball,9,11,3,male,0,1,1,1
+Basketball,5,8,5,male,0,1,1,1
+Basketball,15,24,5,male,0,1,1,1
+Cricket,9,11,5,male,0,1,1,1
+Cycling,45,54,3,male,1,0,0,1
+Cycling,55,64,3,male,1,0,0,1
+Cycling,25,34,4,male,1,0,0,1
+Cycling,35,44,4,male,1,0,0,1
+Cycling,65,999,4,male,1,0,0,1
+Dancing,0,4,5,male,1,1,1,0
+Fitness / Gymnasium Workouts,15,24,1,male,1,0,1,0
+Fitness / Gymnasium Workouts,25,34,1,male,1,0,1,0
+Fitness / Gymnasium Workouts,35,44,1,male,1,0,1,0
+Fitness / Gymnasium Workouts,45,54,2,male,1,0,1,0
+Fitness / Gymnasium Workouts,55,64,2,male,1,0,1,0
+Fitness / Gymnasium Workouts,65,999,2,male,1,0,1,0
+Fitness / Gymnasium Workouts,0,4,4,male,1,0,1,0
+Soccer,9,11,1,male,0,1,1,1
+Soccer,5,8,2,male,0,1,1,1
+Soccer,0,4,3,male,0,1,1,1
+Soccer,15,24,4,male,0,1,1,1
+Soccer,25,34,5,male,0,1,1,1
+Golf,65,999,3,male,1,0,0,1
+Gymnastics,0,4,2,male,1,0,1,0
+Athletics,15,24,2,male,1,0,0,1
+Athletics,25,34,2,male,1,0,0,1
+Athletics,35,44,3,male,1,0,0,1
+Athletics,45,54,4,male,1,0,0,1
+Athletics,55,64,4,male,1,0,0,1
+Swimming,0,4,1,male,1,0,1,1
+Swimming,5,8,1,male,1,0,1,1
+Swimming,9,11,2,male,1,0,1,1
+Swimming,35,44,5,male,1,0,1,1
+Swimming,45,54,5,male,1,0,1,1
+Swimming,55,64,5,male,1,0,1,1
+Swimming,65,999,5,male,1,0,1,1
+Tennis,5,8,4,male,1,1,1,1
+Walking,45,54,1,male,1,0,0,1
+Walking,55,64,1,male,1,0,0,1
+Walking,65,999,1,male,1,0,0,1
+Walking,35,44,2,male,1,0,0,1
+Walking,15,24,3,male,1,0,0,1
+Walking,25,34,3,male,1,0,0,1
+Gymnastics,5,8,3,female,1,0,1,0
+Gymnastics,9,11,4,female,1,0,1,0
+Dancing,9,11,3,female,1,1,1,0
+Tennis,5,8,5,female,1,1,1,1
+Netball,15,24,5,female,0,1,1,1
+Basketball,9,11,5,female,0,1,1,1
+Athletics,45,54,3,female,1,0,0,1
+Swimming,55,64,3,female,1,0,1,1
+Yoga,25,34,4,female,1,0,1,0
+Yoga,35,44,4,female,1,0,1,0
+Yoga,65,999,4,female,1,0,1,0
+Athletics,0,4,5,female,1,0,0,1
+Fitness / Gymnasium Workouts,15,24,1,female,1,0,1,0
+Fitness / Gymnasium Workouts,25,34,1,female,1,0,1,0
+Walking,35,44,1,female,1,0,0,1
+Fitness / Gymnasium Workouts,45,54,2,female,1,0,1,0
+Fitness / Gymnasium Workouts,55,64,2,female,1,0,1,0
+Fitness / Gymnasium Workouts,65,999,2,female,1,0,1,0
+Dancing,0,4,4,female,1,1,1,0
+Swimming,9,11,1,female,1,0,1,1
+Dancing,5,8,2,female,1,1,1,0
+Gymnastics,0,4,3,female,1,0,1,0
+Swimming,15,24,4,female,1,0,1,1
+Swimming,25,34,5,female,1,0,1,1
+Swimming,65,999,3,female,1,0,1,1
+Dancing,0,4,2,female,1,1,1,0
+Walking,15,24,2,female,1,0,0,1
+Walking,25,34,2,female,1,0,0,1
+Athletics,35,44,3,female,1,0,0,1
+Swimming,45,54,4,female,1,0,1,1
+Yoga,55,64,4,female,1,0,1,0
+Swimming,0,4,1,female,1,0,1,1
+Swimming,5,8,1,female,1,0,1,1
+Netball,9,11,2,female,0,1,1,1
+Swimming,35,44,5,female,1,0,1,1
+Cycling,45,54,5,female,1,0,0,1
+Pilates,55,64,5,female,1,0,1,0
+Pilates,65,999,5,female,1,0,1,0
+Netball,5,8,4,female,0,1,1,1
+Walking,45,54,1,female,1,0,0,1
+Walking,55,64,1,female,1,0,0,1
+Walking,65,999,1,female,1,0,0,1
+Fitness / Gymnasium Workouts,35,44,2,female,1,0,1,0
+Athletics,15,24,3,female,1,0,0,1
+Athletics,25,34,3,female,1,0,0,1

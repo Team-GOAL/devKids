@@ -1,0 +1,26 @@
+.slangPage .container .inner-content ul li{
+    font-family: "Gothic A1", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1;
+    margin: 0;
+}
+
+.teach-slang{
+    font-family: "Gothic A1", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1;
+    margin: 0;
+}
+
+#slang-tabs{
+    font-size: 16px;
+}
+
+.message-box{
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: #444;
+}
