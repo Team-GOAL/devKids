@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="robots" content="noindex, follow"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Favicon -->
+    <!-- Favicon chang it!!-->
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
 
     <!-- all css here -->
@@ -32,14 +32,13 @@
 <?php include "header.html" ?>
 <!-- Slider Start -->
 <div class="slider-area">
-    <div class="slider-active-3 pagination-style3 owl-carousel">
         <div class="single-slider bg-img pt-50 slider-height-2 d-flex align-items-center"
              style="background-image: url(assets/img/kidStudying.jpeg);">
             <div class="container">
                 <div class="row">
                     <div class="ml-auto col-lg-4 col-md-6">
                         <div class="slider-text-6 slider-animated-1">
-                            <h1 class="animated">Kids With Confidence</h1>
+                            <h1 class="animated">Raise Confident Kids</h1>
                             <h3 class="animated">
                                 Supporting Chinese school kids in Victoria
                             </h3>
@@ -51,26 +50,7 @@
                 </div>
             </div>
         </div>
-        <div class="single-slider bg-img pt-50 slider-height-2 d-flex align-items-center"
-             style="background-image: url(assets/img/run1.jpg);">
-            <div class="container">
-                <div class="row">
-                    <div class="ml-auto col-lg-4 col-md-6">
-                        <div class="slider-text-6 slider-animated-1">
-                            <h1 class="animated">Raising Resilient Kids</h1>
-                            <h3 class="animated">
-                                Helping kids to gain life-long skills for a better future in Australia. Not just r
-                                scores
-                            </h3>
-                            <div class="slider-btn-4 mt-30">
-                                <a class="default-btn animated btn-hover" href="single-product.html">Shop Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+</div>
 </div>
 <br>
 <div class="summer-addition-area pb-115">
@@ -104,7 +84,7 @@
             <div class="col-lg-1 col-md-1"></div>
             <div class="col-lg-6 col-md-6">
                 <div class="successful-content">
-                    <h2>Support your kid in English and Communication</h2>
+                    <h2>Support your kid in flish and Communication</h2>
                     <p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh
                         id elit. Duis sed odio sit amet nibh vulpu tate cursus a sit amet mauris accumsan velit.</p>
                     <div class="slider-btn-4 mt-30">

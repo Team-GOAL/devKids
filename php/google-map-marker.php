@@ -22,12 +22,12 @@ if (!$db_selected) {
 global $suburb;
 global $sports;
 
-//$suburb =  strtoupper($_POST["suburb"]);
-//$sports = $_POST["sports"];
+$suburb =  $_POST["suburb"];
+$sports = $_POST["sports"];
 
 //test data
-$suburb = "CLAYTON";
-$sports = "Soccer";
+//$suburb = "CLAYTON";
+//$sports = "Soccer";
 
 //$sql = "select * from sports where sports.SuburbTown like ? and sports.SportsPlayed like ?";
 $sql = "select * from sports where sports.SuburbTown like '$suburb' and sports.SportsPlayed like '$sports'";
