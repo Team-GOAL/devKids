@@ -25,7 +25,7 @@ global $sports;
 //$suburb =  strtoupper($_POST["suburb"]);
 //$sports = $_POST["sports"];
 
-//TODO hard code now, change it later
+//test data
 $suburb = "CLAYTON";
 $sports = "Soccer";
 

@@ -44,7 +44,8 @@
 <body>
 <?php include "header.html" ?>
 <div id="map"></div>
-
+</body>
+</html>
 <script>
     var customLabel = {
         restaurant: {
@@ -67,7 +68,6 @@
             var xml = data.responseXML;
             var markers = xml.documentElement.getElementsByTagName('marker');
             Array.prototype.forEach.call(markers, function(markerElem) {
-                var id = markerElem.getAttribute('id');
                 var name = markerElem.getAttribute('name');
                 var address = markerElem.getAttribute('address');
                 var type = markerElem.getAttribute('type');
@@ -134,7 +134,7 @@
         request.send(null);
     }
 
-    downloadUrl('https://storage.googleapis.com/mapsdevsite/json/mapmarkers2.xml', function(data) {
+    downloadUrl('php/google-map-marker.php', function(data) {
         var xml = data.responseXML;
         var markers = xml.documentElement.getElementsByTagName('marker');
         Array.prototype.forEach.call(markers, function(markerElem) {
@@ -178,8 +178,6 @@
 <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB2KlPbWJr_OLQZ7mx-AI6TVXXXzOdQxw0&callback=initMap">
 </script>
-</body>
-</html>
 
 <!DOCTYPE html >
 

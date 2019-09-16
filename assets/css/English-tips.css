@@ -1,9 +1,66 @@
 .centered {
     position: absolute;
-    top: 30%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     object-fit: scale-down;
     font-size: 30px;
     color: white;
+
+
+
+    overflow: hidden;
+    width:300px;
+    height:300px;
+    float:left;
+    margin:4px;
+    background-size:100%;
+    background-position:center;
+    transition:0.5s;
+}
+
+.pic{
+    height:350px;
+    object-fit: cover;
+}
+
+.englishTipsPage .container .inner-content ul li{
+    font-family: "Gothic A1", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1;
+    margin: 0;
+}
+
+
+#tip1:hover{
+    background-size:110%;
+}
+
+#tip1:after{
+    position:absolute;
+    top:100%;
+    bottom:0;
+    left:0;
+    right:0;
+    white-space:pre-wrap;
+    overflow:hidden;
+    background-color:rgba(0,0,0,0.6);
+    color:#fff;
+    padding:0 8px;
+    opacity:0;
+    content:attr(data-text);
+    transition:0.5s;
+}
+
+#tip1:hover:after{
+    opacity:1;
+    top:0;
+    padding:8px;
+}
+
+#tip1:first-line{
+    color:#fff;
+    font-weight:bold;
+    font-size:1.5em;
 }

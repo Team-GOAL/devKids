@@ -29,110 +29,99 @@
 </head>
 <?php include "header.html" ?>
 <body>
+<div class="englishTipsPage">
+    <div class="container">
+        <div class="inner-content">
+            <ul id="slang-title">
+                <li><a href="index%20new.php">Home</a></li>
+                <li><i class="fa fa-angle-double-right" aria-hidden="true"></i></li>
+                <!--No link here-->
+                <li>Kids' English Communication</li>
+            </ul>
+        </div>
+    </div>
+</div>
 <div class="work-area pt-60 pb-120 black-bg-3">
     <div class="container">
-        <div class="section-title-5 mb-85">
-            <h2>Works</h2>
-        </div>
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                 <div class="single-work zoom-hover mb-30">
-                    <a href="#">
-                        <div class="container">
-                            <img alt="" src="assets/images/order-restaurant.jpeg">
-                            <div class="centered">Order at restaurants and cafes</div>
-                        </div>
-                    </a>
+                    <div class="container" id="tip1">
+                        <img class="pic" alt="" src="assets/images/order-restaurant.jpeg">
+                        <div class="centered one" data-text="test">Order at restaurants and cafes</div>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                 <div class="single-work zoom-hover mb-30">
-                    <a href="#">
-                        <div class="container">
-                            <img alt="" src="assets/images/talk-at-dinner.jpg">
-                            <div class="centered">Talk at dinner</div>
-                        </div>
-                    </a>
+                    <div class="container" id="tip1">
+                        <img class="pic" alt="" src="assets/images/talk-at-dinner.jpg">
+                        <div class="centered two" data-text="test">Talk at dinner</div>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                 <div class="single-work zoom-hover mb-30">
-                    <a href="single-portfolio-2.html">
-                        <div class="container">
-                            <img alt="" src="assets/images/kid-read.jpeg">
-                            <div class="centered">Read a child book out loud</div>
-                        </div>
-                    </a>
+                    <div class="container" id="tip1">
+                        <img class="pic" alt="" src="assets/images/kid-read.jpeg">
+                        <div class="centered three" data-text="test">Read a child book out loud</div>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                 <div class="single-work zoom-hover mb-30">
-                    <a href="single-portfolio-2.html">
-                        <div class="container">
-                            <img alt="" src="assets/images/play-with-kids.jpeg">
-                            <div class="centered">Play with your children</div>
-                        </div>
-                    </a>
+                    <div class="container" id="tip1">
+                        <img class="pic" alt="" src="assets/images/play-with-kids.jpeg">
+                        <div class="centered four" data-text="test">Play with your children</div>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                 <div class="single-work zoom-hover mb-30">
-                    <a href="single-portfolio-2.html">
-                        <div class="container">
-                            <img alt="" src="assets/images/child-sing.jpeg">
-                            <div class="centered">Sing Children's Song</div>
-                        </div>
-                    </a>
+                    <div class="container" id="tip1">
+                        <img class="pic" alt="" src="assets/images/child-sing.jpeg">
+                        <div class="centered five" data-text="test">Sing Children's Song</div>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                 <div class="single-work zoom-hover mb-30">
-                    <a href="single-portfolio-2.html">
-                        <div class="container">
-                            <img alt="" src="assets/img/portfolio/h7-1.png">
-                            <div class="centered">Speak more without grammar correction</div>
-                        </div>
-                    </a>
+                    <div class="container" id="tip1">
+                        <img class="pic" alt="" src="assets/images/grammer.jpg">
+                        <div class="centered six" data-text="test">Speak more without grammar correction</div>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                 <div class="single-work zoom-hover mb-30">
-                    <a href="single-portfolio-2.html">
-                        <div class="container">
-                            <img alt="" src="assets/img/portfolio/h7-1.png">
-                            <div class="centered">Don't laugh at children</div>
-                        </div>
-                    </a>
+                    <div class="container">
+                        <img class="pic" alt="" src="assets/images/dont%20laugh%20at%20kids.jpeg">
+                        <div class="centered seven" data-text="test">Don't laugh at children</div>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                 <div class="single-work zoom-hover mb-30">
-                    <a href="single-portfolio-2.html">
-                        <div class="container">
-                            <img alt="" src="assets/img/portfolio/h7-1.png">
-                            <div class="centered">Accent is not everything</div>
-                        </div>
-                    </a>
+                    <div class="container">
+                        <img class="pic" alt="" src="assets/images/accent.jpg">
+                        <div class="centered eight" data-text="test">Accent is not everything</div>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                 <div class="single-work zoom-hover mb-30">
-                    <a href="single-portfolio-2.html">
-                        <div class="container">
-                            <img alt="" src="assets/img/portfolio/h7-1.png">
-                            <div class="centered">Do not give pressure</div>
-                        </div>
-                    </a>
+                    <div class="container" id="tip1">
+                        <img class="pic" alt="" src="assets/images/pressure.jpg">
+                        <div class="centered nine" data-text="test">Do not give pressure</div>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                 <div class="single-work zoom-hover mb-30">
-                    <a href="single-portfolio-2.html">
-                        <div class="container">
-                            <img alt="" src="assets/img/portfolio/h7-1.png">
-                            <div class="centered">High frequency repetition</div>
-                        </div>
-                    </a>
+                    <div class="container" id="tip1">
+                        <img class="pic" alt="" src="assets/images/practice.jpeg">
+                        <div class="centered ten">High frequency repetition</div>
+                    </div>
                 </div>
             </div>
         </div>
