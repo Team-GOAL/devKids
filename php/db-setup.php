@@ -1,7 +1,7 @@
 <?php
-    $servername = "localhost";
-    $username = "root";
-    $password = "33333333";
+    $servername = "database-1.casaic7l2vnl.ap-southeast-2.rds.amazonaws.com";
+    $username = "admin";
+    $password = "!Raisingkids123";
     $db = "kidsdatabase";
 // Create connection
     $conn = mysqli_connect($servername, $username, $password, $db);
